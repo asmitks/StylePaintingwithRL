@@ -11,9 +11,11 @@ https://colab.research.google.com/drive/1wHKp5FlVWwmLKnhxoAHv1JGKkZm6yiGN?usp=sh
 For training and testing on celeb
 ```
 https://colab.research.google.com/drive/1fVujftlc5I6oAxavgz0TFMdjy77PNCbl?usp=sharing
-
 ```
-
+For training Style transfer RL on MNIST
+```
+https://colab.research.google.com/drive/1IBQIrQ3Hg3exDMVc7IxHnfQhaAeTI6mK?usp=sharing
+```
 ## Style transfer
 ![Alt text](https://github.com/asmitks/StylePaintingwithRL/blob/main/images/Blank%20diagram.jpeg?raw=true)
 ## Demo
