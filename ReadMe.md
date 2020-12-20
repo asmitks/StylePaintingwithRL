@@ -25,7 +25,7 @@ https://colab.research.google.com/drive/1IBQIrQ3Hg3exDMVc7IxHnfQhaAeTI6mK?usp=sh
 ![Alt text](https://github.com/asmitks/StylePaintingwithRL/blob/main/images/ezgif.com-gif-maker.gif?raw=true)
 
 ### Using PPO on MNIST
-![Alt text](https://im7.ezgif.com/tmp/ezgif-7-274900d4e490.gif)
+![Alt text](https://github.com/asmitks/StylePaintingwithRL/blob/main/images/ppo_3.gif?raw=true)
 
 ## Version Info
 
