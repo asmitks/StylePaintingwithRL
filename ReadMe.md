@@ -20,7 +20,7 @@ https://colab.research.google.com/drive/1IBQIrQ3Hg3exDMVc7IxHnfQhaAeTI6mK?usp=sh
 ![Alt text](https://github.com/asmitks/StylePaintingwithRL/blob/main/images/Blank%20diagram.jpeg?raw=true)
 ## Demo
 ### Style Transfer on MNIST
-![Alt text](https://gifmaker.me/files/download/home/20201220/03/X9KM2lk6BW88ifsJBaVNK0/output_Te9r80.gif)
+![Alt text](https://github.com/asmitks/StylePaintingwithRL/blob/main/images/ezgif-6-f82684ab87d4.gif?raw=true)
 ### Using DDPG on CelebA
 ![Alt text](https://github.com/asmitks/StylePaintingwithRL/blob/main/images/ezgif.com-gif-maker.gif?raw=true)
 
